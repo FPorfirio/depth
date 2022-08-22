@@ -1,0 +1,6 @@
+POST http://localHost:3001/api/favourite
+Content-Type: application/json
+
+{
+    "flight_number": 2
+}
